@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Myspace Cafe Menu Kiosk \u0026 Pantry",
+  "description": "An interactive, adorable café kiosk with dynamic order checkout tracking, supervisor kitchen pantry stock registers, live price fluctuation charts, manual/camera SKU scanner simulation, and sweet AI expert suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
